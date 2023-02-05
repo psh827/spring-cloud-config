@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: tkdgnsdldmlroqkfdldirltlwkrgkqslek
+  secret: tkdgnsdldmlroqkfdldirltlwkrgkqslektkdgnsdldmlroqkfdldirltlwkrgkqslektkdgnsdldmlroqkfdldirltlwkrgkqslektkdgnsdldmlroqkfdldirltlwkrgkqslek
 
 gateway:
   ip: 192.168.139.1
